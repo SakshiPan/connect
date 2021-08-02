@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "968781919409",
+    "project_id": "connect-2e8fb",
+    "storage_bucket": "connect-2e8fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968781919409:android:bbec56b7d84a7134ba9e90",
+        "android_client_info": {
+          "package_name": "com.sakshi.connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968781919409-t014schdomgtjvjehpejtn7lqfq66opj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC36bW_0Tv-1VDvYAgfBgS-FC6X9FPjMG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968781919409-t014schdomgtjvjehpejtn7lqfq66opj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
